@@ -1,0 +1,4 @@
+[
+  {"depth":0,"pressure":1.2,"temperature":10,"direction":0,"timestamp":1},
+  {"depth":5,"pressure":1.5,"temperature":12,"direction":45,"timestamp":2}
+]
