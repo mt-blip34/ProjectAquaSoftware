@@ -1,0 +1,5 @@
+Roboflow Project URL: https://app.roboflow.com/projectaquasoftware/underwaterwastedetection-dffhy/1
+Classes: bottle, polythene, styrofoam
+Number of images: 123 (after augmentation)
+Train/Test/Validation split: 70/15/15
+Augmentation: horizontal flip, rotation
