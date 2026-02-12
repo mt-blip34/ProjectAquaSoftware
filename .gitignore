@@ -1,0 +1,9 @@
+# Ignore dataset folder (we don't want to push large data)
+dataset/
+
+# Ignore YOLO training runs (temporary files)
+runs/
+
+# You can also ignore other local Python or temporary files if needed
+*.pyc
+__pycache__/
